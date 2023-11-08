@@ -4,6 +4,8 @@
 
 ## Table of Content
 
+- [A non official command line tool created to help flowgorithm users](#a-non-official-command-line-tool-created-to-help-flowgorithm-users)
+- [Table of Content](#table-of-content)
 - [Features](#features)
 - [Future Features](#future-features)
 - [Installation and Usage](#installation-and-usage)
@@ -12,21 +14,22 @@
   - [Manually install for any folder in the system](#manually-install-for-any-folder-in-the-system)
   - [Run Locally with Python](#run-locally-with-python)
 - [FAQ](#faq)
+  - [install.ps1 dosen't work](#installps1-dosent-work)
+  - [EasyFlow closes right after i run it](#easyflow-closes-right-after-i-run-it)
 - [Authors](#authors)
-
+- [We are **not** an official Flowgorithm tool nor associated with Flowgorithm **in any way**# Table of Contents](#we-are-not-an-official-flowgorithm-tool-nor-associated-with-flowgorithm-in-any-way-table-of-contents)
 
 ## Features
 
 - [x] change file author
 - [X] change all files in a folder or single
 - [x] change pc name inside file
-
+- [x] change about in file
 
 ## Future Features
 
 - [ ] change file date of creation
 - [ ] remove `edited at` fields
-- [ ] change about in file 
 - [ ] customize `edited at` fields
 
 ## Installation and Usage

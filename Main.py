@@ -9,6 +9,7 @@ parser.add_argument('-s','--single', help='only changes selected file',required=
 parser.add_argument('-a','--all', help='changes every file', required=False, action='store_true', default=True)
 parser.add_argument('-nn','--noname', help="dosen't change the name of the author", required=False, action='store_true', default=False)
 parser.add_argument('-pn','--changepcname', help="dosen't change the name", required=False, default=False)
+parser.add_argument('-ca','--changeabout', help="dosen't change the name", required=False, default=False)
 
 args = parser.parse_args()
 
@@ -52,6 +53,8 @@ def main(filename):
             value = tag.get("value")
             date = value
             print(date)
+        if attname == "about" and args.changeabout != False:
+            tag.set("value", args.changeabout)
 
 
 
