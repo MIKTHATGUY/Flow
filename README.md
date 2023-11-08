@@ -20,12 +20,13 @@
 - [x] change file author
 - [X] change all files in a folder or single
 - [x] change pc name inside file
-- [x] change about in file 
+
 
 ## Future Features
 
 - [ ] change file date of creation
 - [ ] remove `edited at` fields
+- [ ] change about in file 
 - [ ] customize `edited at` fields
 
 ## Installation and Usage
