@@ -18,7 +18,7 @@
 ## Features
 
 - [x] change file author
-- [x] change all files in a folder or single
+- [X] change all files in a folder or single
 - [x] change pc name inside file
 - [x] change about in file 
 
