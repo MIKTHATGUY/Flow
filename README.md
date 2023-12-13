@@ -94,4 +94,4 @@ Do not open the file double clicking it, run it in the cmd and
 
 - [@MIKTHATGUY](https://https://github.com/MIKTHATGUY)
 
-## We are **not** an official Flowgorithm tool nor associated with Flowgorithm **in any way**# Table of Contents
+## We are **not** an official Flowgorithm tool nor associated with Flowgorithm **in any way**
